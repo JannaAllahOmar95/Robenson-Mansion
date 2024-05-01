@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6ce8a6784ee424da9ef6ffb2679fd9, type: 3}
+  m_Name: The Lost Artifact
+  m_EditorClassIdentifier: 
+  QuestTitle: The Lost Artifact
+  currentObjective: {fileID: 11400000, guid: 948a2e9655bfdc940a53ce84074181e7, type: 2}
+  IsCompleted: 0
+  Objectives:
+  - {fileID: 11400000, guid: 948a2e9655bfdc940a53ce84074181e7, type: 2}
+  - {fileID: 11400000, guid: d2e1b7f61686b4648bc38127540b3b67, type: 2}
+  - {fileID: 11400000, guid: 8866b0f771c38da419998e6187250a7f, type: 2}
+  - {fileID: 11400000, guid: b2330b0a1b783e6499ac0a957a4ebde0, type: 2}
+  - {fileID: 11400000, guid: 153e4c19e8d629845bf25c327206e5aa, type: 2}

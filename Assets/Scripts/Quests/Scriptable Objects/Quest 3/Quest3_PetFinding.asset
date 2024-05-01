@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6ce8a6784ee424da9ef6ffb2679fd9, type: 3}
+  m_Name: Quest3_PetFinding
+  m_EditorClassIdentifier: 
+  QuestTitle: Pet Finding
+  currentObjective: {fileID: 11400000, guid: 5b502d6107833b6428d9828ea64e92fc, type: 2}
+  IsCompleted: 0
+  Objectives:
+  - {fileID: 11400000, guid: 5b502d6107833b6428d9828ea64e92fc, type: 2}
+  - {fileID: 11400000, guid: b56e2cd9607cc1b4f8a6b7cca88ae529, type: 2}
